@@ -1,0 +1,9 @@
+-------------------------------
+name: Batman: The Dark Knight Returns Deluxe Ed
+description: Batman comes out of retirement and gets help from a teenage
+ sidekick. He faces off against the Joker and Two-Face before 
+ a battle to the death begins against Superman.
+directors: Jay Oliva
+studio: Warner Bros. Animation
+return date: 202257
+price: 4
