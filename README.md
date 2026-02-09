@@ -1,0 +1,1 @@
+This application was developed as part of a university module focusing on Java development and object‑oriented programming. The system reflects a practical implementation of core Java fundamentals in a real-world style project.
